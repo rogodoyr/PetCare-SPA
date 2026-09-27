@@ -1,4 +1,4 @@
-# PetCare — Sistema de Gestión de Boxes Veterinarios
+# PetCare SPA — Gestión de Boxes Veterinarios - sistema atención de mascotas 
 
 Proyecto de la evaluación parcial 1 de **DSY1105 — Desarrollo de Aplicaciones Móviles**  
 **EA1: Fundamentos de Kotlin y POO**
